@@ -1,1 +1,1 @@
-## Simple Program made in JavaScript
+# Simple Program made in JavaScript
