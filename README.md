@@ -1,1 +1,1 @@
-# (Simple Program made in JavaScript)[https://google.com]
+# Program made in JavaScript
